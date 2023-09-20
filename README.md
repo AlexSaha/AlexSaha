@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Alex! I'm a 25-year-old Mainframe, API and IOS Developer from Ohio.
+- Hi, I’m Alex! I'm a 25-year-old Mainframe, API and IOS Developer from Ohio.
 - You can find my Github io portfolio at [AlexanderSaha.com](https://www.AlexanderSaha.com)
