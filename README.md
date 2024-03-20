@@ -1,4 +1,4 @@
 - Hello! I’m Alex.
 - 25-year-old Professional Mainframe & REST API Developer
 - Hobbyist IOS Developer
-- You can find my Github io portfolio at [AlexanderSaha.com](https://www.AlexanderSaha.com)
+- Find my portfolio at [AlexanderSaha.com](https://www.AlexanderSaha.com)
